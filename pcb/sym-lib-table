@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "EuroCard160mmX100mm_holes")(type "KiCad")(uri "${KIPRJMOD}/EuroCard160mmX100mm_holes.kicad_sym")(options "")(descr ""))
+  (lib (name "LCMXO2-1200HC-4TG100I")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-1200HC-4TG100I/LCMXO2-1200HC-4TG100I.kicad_sym")(options "")(descr ""))
+  (lib (name "LCMXO2-4000HC-4TG144I")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-4000HC-4TG144I/LCMXO2-4000HC-4TG144I.kicad_sym")(options "")(descr ""))
 )
