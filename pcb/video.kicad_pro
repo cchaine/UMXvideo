@@ -460,6 +460,14 @@
     [
       "a587fbd2-119d-431c-964c-d65c1fee09ba",
       "VGA frontend"
+    ],
+    [
+      "41a44686-96e3-4c46-aedc-32ef1e27b434",
+      "Bus"
+    ],
+    [
+      "f52d2bef-e44b-4029-9335-e50fd8ba2057",
+      "HDMI frontend"
     ]
   ],
   "text_variables": {}

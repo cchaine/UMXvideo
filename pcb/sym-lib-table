@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name "LCMXO2-1200HC-4TG100I")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-1200HC-4TG100I/LCMXO2-1200HC-4TG100I.kicad_sym")(options "")(descr ""))
   (lib (name "LCMXO2-4000HC-4TG144I")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-4000HC-4TG144I/LCMXO2-4000HC-4TG144I.kicad_sym")(options "")(descr ""))
+  (lib (name "LP3853ESX-3.3_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libs/LP3853ESX-3_3/LP3853ESX-3.3_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn-09031966821")(type "KiCad")(uri "${KIPRJMOD}/libs/09031966821/Conn-09031966821.kicad_sym")(options "")(descr ""))
 )

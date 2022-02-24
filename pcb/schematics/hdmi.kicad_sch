@@ -1,0 +1,15 @@
+(kicad_sch (version 20220126) (generator eeschema)
+
+  (uuid 119c633c-175b-4b38-bbc1-1a076032c16e)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "TFP410" (at 119.38 91.44 0)
+    (effects (font (size 10 10)) (justify left bottom))
+    (uuid 3278ec01-4ed0-4b9c-9711-d1c404b877cd)
+  )
+)
