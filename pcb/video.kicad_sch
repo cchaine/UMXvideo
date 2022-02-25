@@ -236,17 +236,17 @@
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/6c716029-b9e5-416e-9f8b-c131f68286dd"
       (reference "U?") (unit 1) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/6e32f788-ac15-427e-b4aa-eabd3c597d10"
-      (reference "U?") (unit 1) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/d7025eee-9bc3-488c-99b6-345be226b4bc"
+      (reference "U?") (unit 1) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/92908c38-1acc-46cb-ac21-7cb047b62aa8"
-      (reference "U?") (unit 2) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/77366275-d3b3-4a77-b8b7-ba7bca879100"
+      (reference "U?") (unit 2) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/bcd54e0f-3ddf-4697-a469-f66785676941"
       (reference "U?") (unit 2) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/5413a56f-afd6-4a57-a51a-a5dae813347d"
-      (reference "U?") (unit 3) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/5bf93d8f-c482-43fb-98a8-6032337a3497"
+      (reference "U?") (unit 3) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/fff43bb4-d143-49a7-9eb7-256213494953"
       (reference "U?") (unit 3) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
@@ -254,26 +254,26 @@
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/22967c4b-b199-4e09-9532-ef794fbfe9b7"
       (reference "U?") (unit 4) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/acae57da-a1f2-40fd-b8c3-e005d189976d"
-      (reference "U?") (unit 4) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/91f3a107-d226-4782-8d73-83526bdec9fa"
+      (reference "U?") (unit 4) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
+    )
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/0b0aa185-1b17-4887-afb9-78b0e5797c21"
+      (reference "U?") (unit 5) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/9756bdd9-dca4-46f6-9e1a-d1c058470c92"
       (reference "U?") (unit 5) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/c788d517-8243-426a-9dee-86fdae0b7fcf"
-      (reference "U?") (unit 5) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
-    )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/16c1519c-8f09-4ad7-913b-4035b7f7f292"
-      (reference "U?") (unit 6) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
-    )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/3415755a-b1ff-4092-9692-167d3286dac5"
       (reference "U?") (unit 6) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/c93d81c4-a764-480e-b631-ead3060708ac"
-      (reference "U?") (unit 7) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/c3a60790-31c1-48ca-bfd3-458d83688432"
+      (reference "U?") (unit 6) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/7fa6c8f2-9520-4d07-87e6-cc2e79b4149a"
-      (reference "U?") (unit 8) (value "LCMXO2-4000HC-4TG144I") (footprint "Lattice_Semiconductor-LCMXO2-4000HC-4TG144I-*")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/56711327-7116-4831-a280-5098a5d8552e"
+      (reference "U?") (unit 7) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
+    )
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/ba5d1bdc-7c25-455e-9dd7-ab8074793501"
+      (reference "U?") (unit 8) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
   )
 )
