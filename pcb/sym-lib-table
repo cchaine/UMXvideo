@@ -3,4 +3,5 @@
   (lib (name "LP3853ESX-3.3_NOPB")(type "KiCad")(uri "${KIPRJMOD}/libs/LP3853ESX-3_3/LP3853ESX-3.3_NOPB.kicad_sym")(options "")(descr ""))
   (lib (name "Conn-09031966821")(type "KiCad")(uri "${KIPRJMOD}/libs/09031966821/Conn-09031966821.kicad_sym")(options "")(descr ""))
   (lib (name "LCMXO2-7000HC-4TG144C")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-7000HC-4TG144C/LCMXO2-7000HC-4TG144C.kicad_sym")(options "")(descr ""))
+  (lib (name "VGA")(type "KiCad")(uri "${KIPRJMOD}/libs/VGA-LOGO/VGA.kicad_sym")(options "")(descr ""))
 )

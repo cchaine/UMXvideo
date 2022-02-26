@@ -206,7 +206,7 @@
   )
 
 
-  (symbol (lib_id "Connector:DB15_Female_HighDensity") (at 226.06 91.44 0)
+  (symbol (lib_id "Connector:DB15_Female_HighDensity") (at 226.06 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ffc7f873-5a6d-4463-8ed4-36f5a8ecd09a)
     (property "Reference" "J?" (id 0) (at 226.06 69.85 0)
