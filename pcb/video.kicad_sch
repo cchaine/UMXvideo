@@ -4622,6 +4622,9 @@
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/6c716029-b9e5-416e-9f8b-c131f68286dd"
       (reference "U?") (unit 1) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
+    (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/8026023e-ffe3-471f-bc27-be7c6eee911d"
+      (reference "U?") (unit 1) (value "THS8136") (footprint "")
+    )
     (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/8660a8a2-f2bc-408a-b41d-f1468d84064f"
       (reference "U?") (unit 1) (value "TFP410PAP") (footprint "Package_QFP:HTQFP-64-1EP_10x10mm_P0.5mm_EP8x8mm_Mask4.4x4.4mm_ThermalVias")
     )
@@ -4631,17 +4634,26 @@
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/77366275-d3b3-4a77-b8b7-ba7bca879100"
       (reference "U?") (unit 2) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
+    (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/a6dabf28-8015-49b6-a5f5-1c8da3639a5d"
+      (reference "U?") (unit 2) (value "THS8136") (footprint "")
+    )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/bcd54e0f-3ddf-4697-a469-f66785676941"
       (reference "U?") (unit 2) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/5bf93d8f-c482-43fb-98a8-6032337a3497"
       (reference "U?") (unit 3) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
     )
+    (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/b9caaadf-6d32-4685-b157-2ebd43c248b0"
+      (reference "U?") (unit 3) (value "THS8136") (footprint "")
+    )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/fff43bb4-d143-49a7-9eb7-256213494953"
       (reference "U?") (unit 3) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/22967c4b-b199-4e09-9532-ef794fbfe9b7"
       (reference "U?") (unit 4) (value "LCMXO2-1200HC-4TG100I") (footprint "Lattice_Semiconductor-LCMXO2-1200HC-4TG100I-*")
+    )
+    (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/708588a5-a70e-4238-8a99-9f15252e99b1"
+      (reference "U?") (unit 4) (value "THS8136") (footprint "")
     )
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/91f3a107-d226-4782-8d73-83526bdec9fa"
       (reference "U?") (unit 4) (value "LCMXO2-7000HC-4TG144C") (footprint "Lattice_Semiconductor-LCMXO2-7000HC-4TG144C-*")
