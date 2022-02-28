@@ -6,4 +6,5 @@
   (lib (name "VGA")(type "KiCad")(uri "${KIPRJMOD}/libs/VGA-LOGO/VGA.kicad_sym")(options "")(descr ""))
   (lib (name "THS8136")(type "KiCad")(uri "${KIPRJMOD}/libs/THS8136/THS8136.kicad_sym")(options "")(descr ""))
   (lib (name "NCA9306")(type "KiCad")(uri "${KIPRJMOD}/libs/NCA9306/NCA9306.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP115")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP115/NCP115.kicad_sym")(options "")(descr ""))
 )
