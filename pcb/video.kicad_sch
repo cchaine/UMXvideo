@@ -4740,7 +4740,7 @@
       (reference "R?") (unit 1) (value "10k") (footprint "")
     )
     (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/b5d69088-ea71-4265-9f24-011fca420e8a"
-      (reference "R?") (unit 1) (value "2.2k") (footprint "")
+      (reference "R?") (unit 1) (value "3.8k") (footprint "")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/baececb2-6976-4732-b180-911678cad3f7"
       (reference "R?") (unit 1) (value "10k") (footprint "")
