@@ -1200,7 +1200,7 @@
   )
 
   (no_connect (at 163.83 113.03) (uuid bcfbe9fd-e2dd-4997-8107-598d2a8f5cb3))
-  (no_connect (at 163.83 125.73) (uuid bcfbe9fd-e2dd-4997-8107-598d2a8f5cb3))
+  (no_connect (at 163.83 125.73) (uuid bcfbe9fd-e2dd-4997-8107-598d2a8f5cb4))
 
   (wire (pts (xy 182.88 35.56) (xy 173.99 35.56))
     (stroke (width 0) (type default))
