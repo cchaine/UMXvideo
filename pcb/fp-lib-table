@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "RAHHD19TR")(type "KiCad")(uri "${KIPRJMOD}/libs/RAHHD19TR/RAHHD19TR.pretty")(options "")(descr ""))
+  (lib (name "L77HDE15SD1CH4FVGA")(type "KiCad")(uri "${KIPRJMOD}/libs/L77HDE15SD1CH4FVGA/L77HDE15SD1CH4FVGA.pretty")(options "")(descr ""))
+  (lib (name "LP3853ESX-3_3")(type "KiCad")(uri "${KIPRJMOD}/libs/LP3853ESX-3_3/LP3853ESX-3_3.pretty")(options "")(descr ""))
+  (lib (name "LCMXO2-7000HC-4TG144C")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-7000HC-4TG144C/LCMXO2-7000HC-4TG144C.pretty")(options "")(descr ""))
+  (lib (name "LCMXO2-1200HC-4TG100I")(type "KiCad")(uri "${KIPRJMOD}/libs/LCMXO2-1200HC-4TG100I/LCMXO2-1200HC-4TG100I.pretty")(options "")(descr ""))
+  (lib (name "NCP115ASN180T2G")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP115/NCP115ASN180T2G.pretty")(options "")(descr ""))
+  (lib (name "ESD224DQA")(type "KiCad")(uri "${KIPRJMOD}/libs/ESD224DQA/ESD224DQA")(options "")(descr ""))
+  (lib (name "09031966821")(type "KiCad")(uri "${KIPRJMOD}/libs/09031966821/09031966821.pretty")(options "")(descr ""))
+)
