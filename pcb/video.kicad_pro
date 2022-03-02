@@ -468,6 +468,10 @@
     [
       "f52d2bef-e44b-4029-9335-e50fd8ba2057",
       "HDMI frontend"
+    ],
+    [
+      "49ac9e23-54e7-4773-8f0f-2ee697168f53",
+      "I2C Mux"
     ]
   ],
   "text_variables": {}
