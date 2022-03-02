@@ -1,6 +1,6 @@
 (footprint "RAAHD19TR" (version 20220211) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 621F3DAF)
+  (tedit 621F7409)
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.54 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -84,4 +84,9 @@
     (thermal_bridge_angle 45) (tstamp 869d6302-ae22-478f-9723-3feacbb12eef))
   (pad "19" smd rect (at -4.5 0) (size 0.28 2.6) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 142dd724-2a9f-4eea-ab21-209b1bc7ec65))
+  (model "${KIPRJMOD}/libs/RAHHD19TR/hdmi.igs"
+    (offset (xyz 0 -11 3))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
