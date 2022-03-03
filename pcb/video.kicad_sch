@@ -4839,15 +4839,6 @@
     (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/1740da68-801c-46ea-96d3-40a162b6b3e8"
       (reference "FB2") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/afe37eda-4e9f-4f10-ab4d-4e3fbee9b0fe"
-      (reference "FB3") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0805_2012Metric")
-    )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/f66fdcfc-dada-489a-acb0-82f42cb084eb"
-      (reference "FB4") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0805_2012Metric")
-    )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/8f95b108-c778-4ac9-8aed-cfa745505589"
-      (reference "FB5") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0805_2012Metric")
-    )
     (path "/41a44686-96e3-4c46-aedc-32ef1e27b434/4ec00cc8-73ee-4a88-8f61-16dd24bb6fe7"
       (reference "J1") (unit 1) (value "09031966921") (footprint "09031966821:Harting-09031966921-0-0-0")
     )
