@@ -4006,7 +4006,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 8df555a8-8fbe-4a70-abf3-a1df61d9b519)
-    (property "Sheetname" "Video FPGA - Power" (id 0) (at 170.18 217.17 0)
+    (property "Sheetname" "Video FPGA" (id 0) (at 170.18 217.17 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Sheetfile" "schematics/video-fpga.kicad_sch" (id 1) (at 170.18 238.0746 0)

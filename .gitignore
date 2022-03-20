@@ -26,3 +26,5 @@ pcb/*.ses
 # Exported BOM files
 pcb/*.xml
 pcb/*.csv
+
+**/*.icloud
