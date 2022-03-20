@@ -529,6 +529,10 @@
     [
       "49ac9e23-54e7-4773-8f0f-2ee697168f53",
       "I2C Mux"
+    ],
+    [
+      "2ceac8e6-e7ca-4588-9e0d-b24164c97fee",
+      "Dualport RAM"
     ]
   ],
   "text_variables": {}

@@ -7,4 +7,5 @@
   (lib (name "NCP115ASN180T2G")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP115/NCP115ASN180T2G.pretty")(options "")(descr ""))
   (lib (name "ESD224DQA")(type "KiCad")(uri "${KIPRJMOD}/libs/ESD224DQA/ESD224DQA")(options "")(descr ""))
   (lib (name "09031966821")(type "KiCad")(uri "${KIPRJMOD}/libs/09031966821/09031966821.pretty")(options "")(descr ""))
+  (lib (name "IS62LV256")(type "KiCad")(uri "${KIPRJMOD}/libs/IS62LV256/IS62LV256.pretty")(options "")(descr ""))
 )

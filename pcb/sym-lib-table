@@ -9,4 +9,5 @@
   (lib (name "NCP115")(type "KiCad")(uri "${KIPRJMOD}/libs/NCP115/NCP115.kicad_sym")(options "")(descr ""))
   (lib (name "PCA9540")(type "KiCad")(uri "${KIPRJMOD}/libs/PCA9540/PCA9540.kicad_sym")(options "")(descr ""))
   (lib (name "ESD224DQA")(type "KiCad")(uri "${KIPRJMOD}/libs/ESD224DQA/ESD224DQA.kicad_sym")(options "")(descr ""))
+  (lib (name "IS62LV256")(type "KiCad")(uri "${KIPRJMOD}/libs/IS62LV256/IS62LV256.kicad_sym")(options "")(descr ""))
 )
