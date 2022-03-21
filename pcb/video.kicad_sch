@@ -4201,9 +4201,6 @@
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/cf269941-5da5-4bd0-b2c8-4009dc08ab40"
       (reference "#PWR045") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/fe0e5b51-98b8-40ba-86b2-54249720f89b"
-      (reference "#PWR046") (unit 1) (value "+3V3") (footprint "")
-    )
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/3fc7ec38-dd65-48a5-90ab-aa8672a6826f"
       (reference "#PWR047") (unit 1) (value "+3V3") (footprint "")
     )
@@ -4396,11 +4393,8 @@
     (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/75b0b0ae-baaa-40e8-8fd5-a33a1047c815"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/12bf1c3f-a0fb-4b6e-9e1a-5d9ce7178984"
-      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/cd3fa90f-5708-44b0-ac6a-8f9c3f18de22"
-      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/13b49702-b284-4b6e-bd61-dc4375b01908"
+      (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/38b537c6-d1e6-4206-947f-10c53fe5d07a"
       (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
@@ -4855,12 +4849,6 @@
     (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/56018ac7-e04d-49f9-8f54-b51036b68e98"
       (reference "D26") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_0603_1608Metric")
     )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/4cd6acc0-1bc3-4dde-9b65-6b944954d0c4"
-      (reference "D27") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_0603_1608Metric")
-    )
-    (path "/f52d2bef-e44b-4029-9335-e50fd8ba2057/6cb07390-0979-4e35-8cb6-e7e062567eaf"
-      (reference "D28") (unit 1) (value "D_TVS") (footprint "Diode_SMD:D_0603_1608Metric")
-    )
     (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/167a8199-fe47-46bb-b81f-41a3a9d3b373"
       (reference "FB1") (unit 1) (value "FerriteBead_Small") (footprint "Inductor_SMD:L_0805_2012Metric")
     )
@@ -4880,16 +4868,16 @@
       (reference "J2") (unit 1) (value "HDMI_A") (footprint "")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/72ac50da-0008-4ba1-aba2-d9c415695d61"
-      (reference "J3") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+      (reference "J3") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
     )
     (path "/a0f6ecb7-ddaf-4b1e-9b89-cdfe3f1f4a12/0b9053f1-bd97-4c5d-87f9-f4034e7cc924"
-      (reference "J4") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+      (reference "J4") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
     )
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/5aefad79-40a3-4eac-883d-63da978c6357"
-      (reference "J5") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+      (reference "J5") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
     )
     (path "/8df555a8-8fbe-4a70-abf3-a1df61d9b519/2c36c59e-07a0-432d-8473-d7b70aad5289"
-      (reference "J6") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
+      (reference "J6") (unit 1) (value "Conn_01x06") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
     )
     (path "/a587fbd2-119d-431c-964c-d65c1fee09ba/ffc7f873-5a6d-4463-8ed4-36f5a8ecd09a"
       (reference "J7") (unit 1) (value "DB15_Female_HighDensity") (footprint "L77HDE15SD1CH4FVGA:L77HDE15SD1CH4FVGA")
