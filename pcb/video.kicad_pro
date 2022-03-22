@@ -533,6 +533,10 @@
     [
       "2ceac8e6-e7ca-4588-9e0d-b24164c97fee",
       "Dualport RAM"
+    ],
+    [
+      "6e5d21fc-897f-404f-8f41-343be1904670",
+      "Programming interface"
     ]
   ],
   "text_variables": {}

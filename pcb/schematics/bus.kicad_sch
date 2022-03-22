@@ -2526,7 +2526,7 @@
     )
   )
 
-  (symbol (lib_id "Conn-09031966821:09031966921") (at 113.03 26.67 0) (unit 2)
+  (symbol (lib_id "Conn-09031966821:09031966921") (at 113.03 26.67 0)
     (in_bom yes) (on_board yes)
     (uuid 37a00ce4-fc77-42b4-b9cc-9cd74fbf3f3d)
     (property "Reference" "J1" (id 0) (at 115.57 15.24 0)
@@ -2644,7 +2644,7 @@
     (pin "95" (uuid a46ee09b-fcdb-4438-b293-f16983eb3ccb))
   )
 
-  (symbol (lib_id "power:+5V") (at 82.55 19.05 0) (unit 1)
+  (symbol (lib_id "power:+5V") (at 82.55 19.05 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 475b3a4a-9024-453f-81eb-349c585a221b)
     (property "Reference" "#PWR092" (id 0) (at 82.55 22.86 0)
@@ -2662,7 +2662,7 @@
     (pin "1" (uuid 5c139f6d-6953-46c4-baac-9709c69dd9df))
   )
 
-  (symbol (lib_id "Conn-09031966821:09031966921") (at 153.67 26.67 0) (unit 1)
+  (symbol (lib_id "Conn-09031966821:09031966921") (at 153.67 26.67 0)
     (in_bom yes) (on_board yes)
     (uuid 4ec00cc8-73ee-4a88-8f61-16dd24bb6fe7)
     (property "Reference" "J1" (id 0) (at 156.21 15.24 0)
@@ -2780,7 +2780,7 @@
     (pin "94" (uuid 6c69e0ef-6e14-418a-b4ba-32c517a51ffb))
   )
 
-  (symbol (lib_id "power:GND") (at 167.64 191.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 167.64 191.77 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 50fb4ca1-22a3-4466-ab42-e0b30b8cb45f)
     (property "Reference" "#PWR097" (id 0) (at 167.64 198.12 0)
@@ -2798,7 +2798,7 @@
     (pin "1" (uuid 59b8341c-5364-4b65-9a16-fb1e6a5c6678))
   )
 
-  (symbol (lib_id "power:GND") (at 127 191.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 127 191.77 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 58475425-b42f-4af3-9c27-3bfb381b9dbc)
     (property "Reference" "#PWR096" (id 0) (at 127 198.12 0)
@@ -2816,7 +2816,7 @@
     (pin "1" (uuid 3b756ed2-5ac4-40d9-84ac-f5ec37361e4f))
   )
 
-  (symbol (lib_id "Conn-09031966821:09031966921") (at 72.39 26.67 0) (unit 3)
+  (symbol (lib_id "Conn-09031966821:09031966921") (at 72.39 26.67 0)
     (in_bom yes) (on_board yes)
     (uuid 8f1b6366-89c9-4af9-98fb-514a07e3abf8)
     (property "Reference" "J1" (id 0) (at 76.2 15.24 0)
@@ -2934,7 +2934,7 @@
     (pin "96" (uuid f529a78b-e39a-42c4-9a49-1b901bd56f43))
   )
 
-  (symbol (lib_id "power:+5V") (at 123.19 19.05 0) (unit 1)
+  (symbol (lib_id "power:+5V") (at 123.19 19.05 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c6fd5ed3-6499-401c-b373-3e7e3a7b99da)
     (property "Reference" "#PWR093" (id 0) (at 123.19 22.86 0)
@@ -2952,7 +2952,7 @@
     (pin "1" (uuid 5d8e91ca-4ebe-4a77-bccb-64ff131a8e52))
   )
 
-  (symbol (lib_id "power:+5V") (at 163.83 19.05 0) (unit 1)
+  (symbol (lib_id "power:+5V") (at 163.83 19.05 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e81a7276-623a-493f-a630-773db7b5645d)
     (property "Reference" "#PWR094" (id 0) (at 163.83 22.86 0)
@@ -2970,7 +2970,7 @@
     (pin "1" (uuid 9bb119c2-9e09-4215-9157-a473afb21dc4))
   )
 
-  (symbol (lib_id "power:GND") (at 86.36 191.77 0) (mirror y) (unit 1)
+  (symbol (lib_id "power:GND") (at 86.36 191.77 0) (mirror y)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f0208d8e-9c49-4e8a-9555-afee527cca7a)
     (property "Reference" "#PWR095" (id 0) (at 86.36 198.12 0)
