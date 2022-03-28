@@ -4085,9 +4085,6 @@
     (path "/22fd57c4-481e-4417-b920-694451210da2/3a310f30-0b39-445d-be66-c3b9525fc5b4"
       (reference "#PWR02") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/22fd57c4-481e-4417-b920-694451210da2/373c5369-c4f5-4500-ad65-e2ca05bad504"
-      (reference "#PWR03") (unit 1) (value "+5V") (footprint "")
-    )
     (path "/22fd57c4-481e-4417-b920-694451210da2/a7ce4b6d-54b5-4959-b8a7-5d642c7f25bb"
       (reference "#PWR04") (unit 1) (value "+1V8") (footprint "")
     )
@@ -4462,6 +4459,9 @@
     )
     (path "/6e5d21fc-897f-404f-8f41-343be1904670/4d901a1f-d80f-4ae5-97b2-0a51f730ebf6"
       (reference "#PWR0163") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/22fd57c4-481e-4417-b920-694451210da2/c4b42900-1724-41ae-9165-c4d470a216da"
+      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/22fd57c4-481e-4417-b920-694451210da2/48676f29-b15d-4428-85da-087409cf25aa"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0805_2012Metric")
