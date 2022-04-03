@@ -10,4 +10,5 @@
   (lib (name "PCA9540")(type "KiCad")(uri "${KIPRJMOD}/libs/PCA9540/PCA9540.kicad_sym")(options "")(descr ""))
   (lib (name "ESD224DQA")(type "KiCad")(uri "${KIPRJMOD}/libs/ESD224DQA/ESD224DQA.kicad_sym")(options "")(descr ""))
   (lib (name "IS62LV256")(type "KiCad")(uri "${KIPRJMOD}/libs/IS62LV256/IS62LV256.kicad_sym")(options "")(descr ""))
+  (lib (name "XC9572XL-4VQG44C")(type "KiCad")(uri "${KIPRJMOD}/libs/XC9572XL-10VQG44C/XC9572XL-4VQG44C.kicad_sym")(options "")(descr ""))
 )
