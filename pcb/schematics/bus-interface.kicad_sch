@@ -2298,7 +2298,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
   )
-  (global_label "BUS_DONE" (shape input) (at 121.92 149.86 0)
+  (global_label "BUS_CONFIG_DONE" (shape input) (at 121.92 149.86 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e7aca078-6731-4040-833b-34ea5e792545)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 134.2512 149.7806 0)

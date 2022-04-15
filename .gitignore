@@ -28,3 +28,5 @@ pcb/*.xml
 pcb/*.csv
 
 **/*.icloud
+
+**/#auto_saved_files#
