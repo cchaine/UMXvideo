@@ -10,4 +10,5 @@
   (lib (name "IS62LV256")(type "KiCad")(uri "${KIPRJMOD}/libs/IS62LV256/IS62LV256.pretty")(options "")(descr ""))
   (lib (name "XC9572XL-10VQG44C")(type "KiCad")(uri "${KIPRJMOD}/libs/XC9572XL-10VQG44C/XC9572XL-10VQG44C.pretty")(options "")(descr ""))
   (lib (name "PTS636_SM43J_SMTR_LFS")(type "KiCad")(uri "${KIPRJMOD}/libs/PTS636_SM43J_SMTR_LFS")(options "")(descr ""))
+  (lib (name "CLX6F-FKC-CNP1ST1E1BB7D3D3")(type "KiCad")(uri "${KIPRJMOD}/libs/CLX6F-FKC-CNP1ST1E1BB7D33/CLX6F-FKC-CNP1ST1E1BB7D3D3.pretty")(options "")(descr ""))
 )
