@@ -1268,6 +1268,7 @@
 
   (no_connect (at 171.45 113.03) (uuid bcfbe9fd-e2dd-4997-8107-598d2a8f5cb3))
   (no_connect (at 171.45 125.73) (uuid bcfbe9fd-e2dd-4997-8107-598d2a8f5cb4))
+  (no_connect (at 125.73 156.21) (uuid ce27d412-fc28-4bd3-b840-1141055ea618))
 
   (wire (pts (xy 135.89 110.49) (xy 135.89 102.87))
     (stroke (width 0) (type default))
